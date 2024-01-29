@@ -1,6 +1,6 @@
 # The-City-of-Calgary-Traffic-Incidents-and-the-Impacts-on-Residents
 
-This is the repository for the data cleaning and preprocessing of The City of Calgary Traffic Incidents and the Impacts on Residents data story created by Harjot Dhaliwal and published on Medium. This is a project completed for the course DATA 605 for the term Winter 2024 at the University of Calgary. The link to the final data story is: .
+This is the repository for the data cleaning and preprocessing of The City of Calgary Traffic Incidents and the Impacts on Residents data story created by Harjot Dhaliwal and published on Medium. This is a project completed for the course DATA 605 for the term Winter 2024 at the University of Calgary. The link to the final data story is: https://medium.com/@harjotdhaliwal403/the-city-of-calgary-traffic-incidents-and-the-impacts-on-residents-9d3b64fe643e.
 
 ### References
 
