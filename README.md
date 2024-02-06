@@ -3,6 +3,7 @@ Some image
 # The City of Calgary: Traffic Incidents and the Impacts on Residents
 
 By Harjot Dhaliwal
+
 Febraury , 2024
 
 ### Introduction
