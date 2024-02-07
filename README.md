@@ -10,6 +10,8 @@ Febraury , 2024
 
 ### Incidents Over Time
 
+https://app.powerbi.com/reportEmbed?reportId=b56938e1-e61b-49b9-ac91-154f37509c8d&autoAuth=true&ctid=c416323c-91ac-45fa-974f-32f58bd2e284
+
 ### Incident Descriptions
 
 ### Concluding Remarks
